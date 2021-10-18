@@ -1,1 +1,1 @@
-This is a sample file to show how to use vim and how to commit and push on the  command line.
+This is a sample file to show how to commit and push on the  command line.
